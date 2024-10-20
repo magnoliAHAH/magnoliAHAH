@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a secret project
+I'm currently working on a Social Web3 project
 
 
 # 💻 Tech Stack:
